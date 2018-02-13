@@ -1,1 +1,1 @@
-!function(exports,global){function longFunctionC(argumentC,argumentD){return longNameA+longNameB+argumentC+argumentD}var longNameA=1,longNameB=2;longFunctionC(3,4);global.testExport=exports}({},function(){return this}());
+!function(exports){var argumentC,argumentD;argumentC=3,argumentD=4}("undefined"==typeof testExport?testExport={}:testExport);
